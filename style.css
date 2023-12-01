@@ -1,0 +1,120 @@
+.editbyname {
+background-color:none;
+font-size: 15px;
+color: #222;
+}
+
+
+ 
+@media (max-width: 576px) {
+}
+
+.table-responsive {
+  color: #409706; 
+  background: #882626;
+}
+.ubah{
+  color: #fff;
+}
+
+ .table-bordered{
+   color: #fff;
+ }
+
+ .table-sm{
+  color: #040652;
+ }
+.card-header{
+  color: #000000;
+  
+} 
+
+.img-thumbnail {
+  height: 40px;
+  width:40px;
+  padding-right: 10px;
+}
+
+html,
+body{
+  height:100px;
+  background-image: url('../img/eberhard.jpg');
+  color: white;
+  background-size: cover; 
+  background-attachment: fixed; 
+}
+
+
+
+input[name="nama"],
+input[name="size"],
+input[nama="lengan"],
+input[nama="nick"],
+input[nama="desain"],
+input[nama="bayar"]{
+background: #1a2226;
+  color: aliceblue;
+  border: 2px solid crimson;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+
+.card-title {
+  color: rgb(236, 24, 95);
+  font-weight: 50;
+  font-family: fantasy;
+  justify-content: center;
+}
+
+
+
+
+.navbar-brand {
+font-family: fantasy;
+color: #fff;
+text-transform: capitalize;
+text-decoration: none;
+}
+
+
+
+.promo {
+  font-family: fantasy;
+  color: #fff;
+  text-shadow: 0 0 5px #fff,
+   0 0 10px #fff,0 0 15px #050505,
+    0 0 20px #030303, 0 0 25px #070707,
+     0 0 30px #000000, 0 0 35px #000000;
+}
+
+.navbar-nav {
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: capitalize;
+
+}
+
+.nav-link {
+  color: #FFFFFF;
+}
+ 
+
+
+
+.card-judul {
+  color: rgb(236, 24, 95);
+  font-weight: 50;
+  font-family: fantasy;
+  justify-content: center;
+}
+
+
+
+
+.card{
+  position:sticky;
+  color: #000;
+}
+
